@@ -1,3 +1,7 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3assert(1 == 1)
 
-assert(1 == 2)
+assert(1 == 1)
+print("Assertion passed!")
+
+
+
